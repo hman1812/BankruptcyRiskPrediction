@@ -7,3 +7,11 @@ Utilizing machine learning algorithms such as: Decision Tree classification, Na√
 
 According on the research results, the study refers to some appropriate managerial implications to assist these companies in operating effectively and contributing to the stabilization of the real estate market in Vietnam.
 
+## Research Objectives
+### General objectives
+The general objective of this research is to identify and forecast the bankruptcy risks of real estate enterprises listed on the Vietnam stock market. According to the result, the study refers to some appropriate managerial implications to assist these companies in operating effectively and contributing to the stabilization of the real estate market in Vietnam.
+### Specific objectives
+To achieve general goals, the thesis has to implement three objectives including:
+- Identifying some variables affecting to bankruptcy risk of real estate enterprises.
+- Assessing and comparing all used-model in the study to suggest a model with the highest exact.
+- Proposing some managerial implications to assist these companies in operating effectively and contributing to the stabilization of the real estate market in Vietnam.
